@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lisandro-lanfranco, Electronics Engineer.
 - 👀 I’m interested in robotics
-- 🌱 I’m currently learning FreeCad, English.
+- 🌱 I’m currently learning ROS, FreeCad, English.
 - 📫 How to reach me in GitHub
 
 <!---
